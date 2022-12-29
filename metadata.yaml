@@ -1,5 +1,8 @@
 _repo: Tales-of-the-supernatural-Six-romantic-stories_69397
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69397-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Platt, James
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '55242'
     url: http://www.gutenberg.org/2009/agents/55242
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69397#Tales-of-the-supernatural-Six-romantic-stories
 gutenberg_issued: '2022-11-20'
 identifiers:
   gutenberg: '69397'
